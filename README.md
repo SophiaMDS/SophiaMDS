@@ -1,4 +1,4 @@
-![descrição da imagem](https://i.postimg.cc/L6pFMVkL/f9eb66beb978917f7512c4b4e75a94de.jpg)
+![descrição da imagem](https://i.postimg.cc/HkkKpvrc/b5ab1a3bee5ae2f5f42af6a11570f820.jpg)
  <h1 align="center"> 😎✌️ Hey dev, I'm Sophia!!</h1>
 
 <!--
