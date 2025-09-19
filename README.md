@@ -1,4 +1,5 @@
-## Hi there 👋
+![descrição da imagem](://hdqwalls.com/wallpaper/1280x1024/8-bit-synthwave-4k)
+ <h1 align="center"> 😎✌️ Hey dev, I'm Sophia!!</h1>
 
 <!--
 **SophiaMDS/SophiaMDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
