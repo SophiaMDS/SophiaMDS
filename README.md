@@ -2,7 +2,7 @@
  <h1 align="center"> 😎✌️ Hey dev, I'm Sophia!!</h1>
  ✨Welcome to my Github universe! Here I share my projects, ideas, and experiments, always striving to learn something new and challenge myself. I hope you have fun exploring my profile and maybe even get inspired to create something amazing too! Feel free to browse around, check out my projects, and reach out if you want to collaborate or just say hi. Let's make this space a place to share, learn, and grow together!
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SophiaMDS/SophiaMDS/blob/output/github-contribution-grid-snake.svg)
 
 ### 📊 Languages & Tools I Have placed My Hands On
 
